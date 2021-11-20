@@ -1,10 +1,10 @@
 {
-  "name": "LolitaBot",
-  "version": "1.8.1",
-  "description": "WhatsApp Bot Nodejs",
+  "name": "Miko-Bot",
+  "version": "1.0.0",
+  "description": "WhatsApp Bot Ringan",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
     "test": "node test.js"
   },
   "repository": {
