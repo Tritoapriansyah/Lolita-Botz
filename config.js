@@ -28,7 +28,7 @@ Prem: JSON.parse(fs.readFileSync('./db/premium.json')),
    readBaileys: "berhasil masuk ke dalam baileys",
    connecting: "Menghubungkan"
    },
-   prefix: ["/"],
+   prefix: ["."],
    gexp: 50,
    limit: 100,
    eror: "Sepertinya Eror",
