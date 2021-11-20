@@ -15,8 +15,8 @@ RUN npm install
 RUN npm instal pm2 -g
 RUN npm install ytdl-core@latest
 RUN npm install yt-search@latest
-ENV PM2_PUBLIC_KEY r5nhytflswo1ly3
-ENV PM2_SECRET_KEY cygkc3bz1dww20f
+ENV PM2_PUBLIC_KEY 04vkir4tk7lmui6
+ENV PM2_SECRET_KEY 43948469kngxf2t
 
 COPY . .
 EXPOSE 5000
